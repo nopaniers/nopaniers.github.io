@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: No Panniers Blog
+title: No Panniers
 email: nopaniers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a simple blog about the things which interest me.
@@ -28,7 +28,7 @@ twitter_username: nopaniers
 github_username:  nopaniers
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
