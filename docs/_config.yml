@@ -28,7 +28,7 @@ twitter_username: nopaniers
 github_username:  nopaniers
 
 # Build settings
-theme: cayman
+theme: tactile
 plugins:
   - jekyll-feed
 
