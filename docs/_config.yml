@@ -28,7 +28,7 @@ twitter_username: nopaniers
 github_username:  nopaniers
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
