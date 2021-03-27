@@ -27,6 +27,9 @@ url: "http://nopaniers.github.com" # the base hostname & protocol for your site,
 twitter_username: nopaniers
 github_username:  nopaniers
 
+disqus:
+  shortname: nopaniers-pages
+
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
