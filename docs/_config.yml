@@ -27,13 +27,15 @@ url: "http://nopaniers.github.com" # the base hostname & protocol for your site,
 twitter_username: nopaniers
 github_username:  nopaniers
 
-disqus:
-  shortname: nopaniers-pages
+# disqus:
+#  shortname: nopaniers-pages
 
 # Build settings
 theme: minima
-# plugins:
-#  - jekyll-remote-theme
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
