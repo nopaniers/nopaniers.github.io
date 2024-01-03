@@ -31,7 +31,7 @@ github_username:  nopaniers
 #  shortname: nopaniers-pages
 
 # Build settings
-theme: jekyl-theme-minima
+theme: minima
 # remote_theme: jekyll/minima
 
 plugins:
