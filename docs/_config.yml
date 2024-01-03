@@ -31,7 +31,7 @@ disqus:
   shortname: nopaniers-pages
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
