@@ -14,7 +14,7 @@ categories: international relations, politics
 > all men and women. Not merely peace in our time, but peace in all
 > time." - John F. Kennedy.
 
-![Kennedy and Kruschev](https://en.wikipedia.org/wiki/File:John_Kennedy,_Nikita_Khrushchev_1961.jpg)
+![Kennedy and Kruschev](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/300px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg)
 
 At the end of WW2, the victorious nations, most notably the US and the
 USSR, established a system of international relations that has
@@ -103,4 +103,8 @@ Korea) agrees that
 > right they freely determine their political status and freely pursue
 > their economic, social and cultural development.
 
-To me, the principles which those who 
+To me, it seems self-evidently good to embrace such a
+principle. Power, in my view, comes from the people. If you have a
+country where the people don't accept your right to rule, then you
+have no right to rule. A fundamental of any country is the right to
+self-determination.
