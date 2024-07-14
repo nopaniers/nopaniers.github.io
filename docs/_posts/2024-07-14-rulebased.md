@@ -16,30 +16,38 @@ categories: international relations, politics
 
 ![Kennedy and Kruschev](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/300px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-At the end of WW2, the victorious nations, most notably the US and the
-USSR, established a system of international relations that has
-governed the world for the past 70 years. They established documents
-like the [Universal Declaration of Human
-Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights),
-and wrote the [UN
-charter](https://www.un.org/en/about-us/un-charter). They established
-a free economic system, and the fundamental right of peoples anywhere
-to self-determination. This was a system, unlike the colonial systems
-or the post-WWI peace treaty, which didn't unfairly benefit the
-victors, but which would treat every nation fairly and in so doing
-prevent the horrors their generation had just experienced in war. 
+Nearly eighty years ago, in the aftermath of the gruesomest, cruelest
+and most deadly conflict in human history, the world's powers forged a
+new vision for global stability and justice. The United States and the
+Soviet Union, amidst the ruins of World War II, championed a
+rules-based international order. This framework, enshrined in
+documents like the [Universal Declaration of Human
+Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+and the [UN charter](https://www.un.org/en/about-us/un-charter). This
+was a system, unlike the colonial systems or the post-WWI peace
+treaty, which didn't unfairly benefit the victors, but which would
+treat every nation fairly and in so doing prevent the horrors their
+generation had just experienced in war and foster a world where every
+nation could thrive in peace.
 
-This system is today referred to "[rules-based international
-order](https://en.wikipedia.org/wiki/Liberal_international_order)" and
-is under attack. It is both under attack from outside - from the
-political rhetoric of China and Russia, and it also under attack from
-the inside - from particularly from nationalists.
+Today, the idealism of that time is gone, and the memory of war has
+faded. This system, today referred to "[rules-based international
+order](https://en.wikipedia.org/wiki/Liberal_international_order)", is
+under attack. Leaders like Vladimir Putin of Russia decry it as a tool
+of the United States, colonialism, and opposed to a multi-polar world
+while at home in the West, nationalists question its relevance when it
+can often seem to a nation's advantage to pursue their own
+self-interest, even if that comes at a cost to others.
 
-I believe in these values. These ideals are worth defending and
-strengthening.
+I do not believe these critisisms are correct. I believe in the values
+and ideals expressed by our grandparents. These ideals are worth
+defending and strengthening, regardless of which side of the Pacific
+we come from. It's a huge topic, but in this first blog post, I'd like
+to talk about just one of the principles of the rules-based
+international order- the principle of self determination.
 
-A typical recent example comes from Putin, speaking at the BRICS
-summit, he [said
+A typical example of recent criticism of this principle comes from
+Putin, speaking at the BRICS summit, he [said
 this](https://www.deccanherald.com/world/putin-describes-brics-as-one-of-the-key-elements-of-emerging-multipolar-world-order-3102037)
 about the rules-based order:
 
@@ -55,24 +63,18 @@ about the rules-based order:
 
 Putin seems to transparently talking about Ukraine. He believes that
 historically [Ukraine is a part of
-Russia](http://en.kremlin.ru/events/president/news/66181). In his
-essay published on the Kremilin website he arues that Ukraine didn't
-exist (before the Soviet Union) as a separate state and that borders
-should have reverted to what they were in 1921 and that Russia,
-Belorussia and Ukraine share a lot of history so they are really one
-"people". So, Ukraine's continued existence is against "historical
-logic" and their independence is to the detrement of the Russian
-people.
+Russia](http://en.kremlin.ru/events/president/news/66181). He believes
+the Ukraine effectively does not exist, that Ukrainians are actually
+Russians, and that border hould have reverted to what they were before
+1921, a time when Ukraine didn't exist as an independent country.
 
-Putin's problem is that, a Russian invasion is clearly the opposite of
-what the Ukrainian people *actually want* which they have so clearly
-demonstrated, first with a democratic vote and then with heroic
-resistance in the face of overwhelming odds. The two Russian military
-invasions represent forcibly taking the country a direction the
-Ukrainian people overwhelmingly decided against. They have resisted
-nearly two and half years against one of the world's largest
-militaries. It's a point humiliatingly made by the Ukrainian
-grandmother mocking the invading Russian troops:
+Putin's problem is that, this is clearly the opposite of what the
+Ukrainian people *actually want*. The people of Ukraine first with a
+democratic vote in which they expressed the desire to work to becoming
+a part of the EU, rejecting Russia, and then with heroic resistance in
+the face of overwhelming odds. Ukraine has now resisted nearly two and
+half years against one of the world's largest militaries. Ukrainian
+grandmothers make the point more elloquently that I could:
 
 > What the f--- are you doing on our land with all these guns? Take
 > these seeds and put them in your pockets, so at least sunflowers
