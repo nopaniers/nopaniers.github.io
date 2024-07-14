@@ -64,14 +64,14 @@ invasion represents forcibly taking the country a direction the
 Ukrainian people previously overwhelmingly voted against.
 
 The principle under attack here is the right to
-self-determination. This right the right of people everywhere to have
-control over their own destiny, and to decide for themselves if which
-country they want to be a part of. The test of whether Ukraine is
-independent or not is now whether Russian people will be better off if
-they invade their neighbour. It is not whether Putin can make a
+self-determination. This right is the right of people everywhere to
+have control over their own destiny, and to decide for themselves
+which country they want to be a part of. The test of whether Ukraine
+is independent or not is now whether Russian people will be better off
+if they invade their neighbour. It is not whether Putin can make a
 convoluted historical argument justifying a war. Under the rules-based
-system the question is: Do the people in Ukraine want to be a part of
-Russia, or not?
+system the only question is: Do the people in Ukraine want to be a
+part of Russia, or not?
 
 The principle of self-determination has brought widespread freedom to
 countries. Far from being a tool of colonialism, this principle saw
@@ -84,11 +84,12 @@ up control of the countries which it conquered in WW2 and granted the
 Phillipines its independence in 1946.
 
 While there are a bewildering array of international institutions and
-groups, the fundamentals are widely agreed to. These are not
-principles that no one has seen or which are not discussed. Article 1,
-Chapter 1 of the UN Charter, agreed to by Russia, China and the United
-States along with the original 50 signatories, and today seen and
-formally accepted tp by almost every nation on earth, is to:
+agreements, the fundamentals in this case are not at all murky. These
+are principles that everyone who wants to can see and openly
+discuss. Article 1, Chapter 1 of the UN Charter, agreed to by Russia,
+China and the United States along with the original 50 signatories,
+and today seen and formally accepted tp by almost every nation on
+earth, is to:
 
 > To develop friendly relations among nations based on respect for the
 > principle of **equal rights** and **self-determination of peoples**,
@@ -105,10 +106,10 @@ Korea) agrees that
 
 It is no wonder a demagogue like Putin would oppose people choosing
 for themselves. But the Ukrainian people do. Just take the Ukrainian
-grandmother who mocked the invading Russian troops: 
-> What the f--- are you doing on our land with all these guns? Take
-> these seeds and put them in your pockets, so at least sunflowers
-> will grow when you all lie down here
+grandmother who mocked the invading Russian troops: > What the f---
+are you doing on our land with all these guns? Take > these seeds and
+put them in your pockets, so at least sunflowers > will grow when you
+all lie down here
 
 Or the Ukranians on Snake Island,
 
@@ -116,22 +117,26 @@ Or the Ukranians on Snake Island,
 
 > **Ukrainian**: "Russian warship, go fuck yourself."
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxCzKhKewnM?si=3P0NC5oBWtrTdzTO&amp;start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{:style="display:block; margin-left:auto; margin-right:auto"}
+
 The Ukranian people have spoken loudly and clearly. They do not want
-to incorporated into Russia. Under the rules-based system they
-wouldn't be.
+to incorporated into Russia. Under the principle of self-determination
+under a rules-based system they wouldn't be.
 
 Countries around the world haven't signed up for this because of US
 pressure, but because it is good for *us*. It's good to be able to
 determine our own fate, and not have that imposed by colonial or
-imperialist powers.
+imperialist powers. Adherence to this policy protects us, taking the
+legitimacy from any agressor, whether that's Russia, or China or even
+if it was the US.
 
 But it is not only the people in less powerful nations who benefit
 from a rules based order, but the more powerful countries too. If
 Ukraine crumbled tomorrow, Russian soliders would be required to
 police an unwilling population. Russian soldiers that would still be
 mocked by grandmothers and reviled. Adherence would need to imposed by
-harsh measures, none of which is cheap for Russia; not in terms of
-money, or reputation, or lives. The fragile peace might last fourty
+harsh measures, none of which would be cheap for Russia; not in terms
+of money, or reputation, or lives. The fragile peace might last fourty
 years, but eventually it would come crashing down and the offices of
 the secret police ransacked by a resentful population.
 
