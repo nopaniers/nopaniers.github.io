@@ -50,18 +50,18 @@ about the rules-based order:
 > their will to others. It’s exactly in the best traditions of
 > colonialism.
 
-Putin is transparently talking about Ukraine, which is a good example
-to use here. He believes that historically Ukraine is a part of
-Russia. In his 5,000 word essay published on the Kremilin website he
-arues that Ukraine didn't exist (before the Soviet Union) as a
-separate state and that they share a common heritage, and are a common
-people with Russians. So, he says, Ukraines continued existence is
-against "historical logic" and their independence is to the detrement
-of the Russian people. Putin's problem is that, given their
-unbelievable resistance, a Russian invasion is clearly the opposite of
-what the Ukrainian people actually want, and represents forcibly
-taking the country a direction the Ukrainian people previously
-overwhelmingly voted against.
+Putin seems to transparently talking about Ukraine. He believes that
+historically Ukraine is a part of Russia. In his 5,000 word essay
+published on the Kremilin website he arues that Ukraine didn't exist
+(before the Soviet Union) as a separate state and that they share a
+common heritage with Russians. So, he says, Ukraines continued
+existence is against "historical logic" and their independence is to
+the detrement of the Russian people. Putin's problem is that, a
+Russian invasion is clearly the opposite of what the Ukrainian people
+actually want and have demonstrated that with heroic resistance in the
+face of overwhelming odds. Or going back further in time, the Russian
+invasion represents forcibly taking the country a direction the
+Ukrainian people previously overwhelmingly voted against.
 
 The principle under attack here is the right to
 self-determination. This right the right of people everywhere to have
@@ -84,11 +84,11 @@ up control of the countries which it conquered in WW2 and granted the
 Phillipines its independence in 1946.
 
 While there are a bewildering array of international institutions and
-groups, the liberal fundamentals have been well established and widely
-agreed to. These are not principles that no one has seen or agreed
-to. Article 1, Chapter 1 of the UN Charter, agreed to by Russia, China
-and the United States among the original 50 signatories, and today
-seen and formally accepted tp by almost every nation on earth, is to:
+groups, the fundamentals are widely agreed to. These are not
+principles that no one has seen or which are not discussed. Article 1,
+Chapter 1 of the UN Charter, agreed to by Russia, China and the United
+States along with the original 50 signatories, and today seen and
+formally accepted tp by almost every nation on earth, is to:
 
 > To develop friendly relations among nations based on respect for the
 > principle of **equal rights** and **self-determination of peoples**,
@@ -103,8 +103,44 @@ Korea) agrees that
 > right they freely determine their political status and freely pursue
 > their economic, social and cultural development.
 
-To me, it seems self-evidently good to embrace such a
-principle. Power, in my view, comes from the people. If you have a
-country where the people don't accept your right to rule, then you
-have no right to rule. A fundamental of any country is the right to
-self-determination.
+It is no wonder a demagogue like Putin would oppose people choosing
+for themselves. But the Ukrainian people do. Just take the Ukrainian
+grandmother who mocked the invading Russian troops: 
+> What the f--- are you doing on our land with all these guns? Take
+> these seeds and put them in your pockets, so at least sunflowers
+> will grow when you all lie down here
+
+Or the Ukranians on Snake Island,
+
+> **Russian warship:** "Snake Island, I, Russian warship, repeat the offer: put down your arms and surrender, or you will be bombed. Have you understood me? Do you copy?"
+
+> **Ukrainian**: "Russian warship, go fuck yourself."
+
+The Ukranian people have spoken loudly and clearly. They do not want
+to incorporated into Russia. Under the rules-based system they
+wouldn't be.
+
+Countries around the world haven't signed up for this because of US
+pressure, but because it is good for *us*. It's good to be able to
+determine our own fate, and not have that imposed by colonial or
+imperialist powers.
+
+But it is not only the people in less powerful nations who benefit
+from a rules based order, but the more powerful countries too. If
+Ukraine crumbled tomorrow, Russian soliders would be required to
+police an unwilling population. Russian soldiers that would still be
+mocked by grandmothers and reviled. Adherence would need to imposed by
+harsh measures, none of which is cheap for Russia; not in terms of
+money, or reputation, or lives. The fragile peace might last fourty
+years, but eventually it would come crashing down and the offices of
+the secret police ransacked by a resentful population.
+
+![Crack in Berlin Wall](https://live.staticflickr.com/3687/14305327971_3bdc4a6a73_w_d.jpg)
+
+If we want the type of peace that JFK described in his speech at
+American University: a lasting peace then these are the principles we
+must continue.
+
+> For, in the final analysis, our most basic common link is that we
+> all inhabit this small planet. We all breathe the same air. We all
+> cherish our children's future. And we are all mortal. - JF Kennedy
