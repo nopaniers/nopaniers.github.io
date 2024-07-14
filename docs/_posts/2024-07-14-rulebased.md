@@ -14,7 +14,7 @@ categories: international relations, politics
 > all men and women. Not merely peace in our time, but peace in all
 > time." - John F. Kennedy.
 
-![Kennedy and Kruschev](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/300px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg)
+![Kennedy and Kruschev](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/300px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 At the end of WW2, the victorious nations, most notably the US and the
 USSR, established a system of international relations that has
@@ -135,7 +135,7 @@ money, or reputation, or lives. The fragile peace might last fourty
 years, but eventually it would come crashing down and the offices of
 the secret police ransacked by a resentful population.
 
-![Crack in Berlin Wall](https://live.staticflickr.com/3687/14305327971_3bdc4a6a73_w_d.jpg)
+![Crack in Berlin Wall](https://live.staticflickr.com/3687/14305327971_3bdc4a6a73_w_d.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 If we want the type of peace that JFK described in his speech at
 American University: a lasting peace then these are the principles we
@@ -144,3 +144,7 @@ must continue.
 > For, in the final analysis, our most basic common link is that we
 > all inhabit this small planet. We all breathe the same air. We all
 > cherish our children's future. And we are all mortal. - JF Kennedy
+
+
+
+Berlin Wall photo by Aad van der Drift.
