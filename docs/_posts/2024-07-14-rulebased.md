@@ -16,62 +16,67 @@ categories: international relations, politics
 
 ![Kennedy and Kruschev](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/300px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Nearly eighty years ago, in the aftermath of the gruesomest, cruelest
-and most deadly conflict in human history, the world's powers forged a
-new vision for global stability and justice. The United States and the
-Soviet Union, amidst the ruins of World War II, championed a
-rules-based international order. This framework, enshrined in
-documents like the [Universal Declaration of Human
+Nearly eighty years ago, in the aftermath of the most gruesome,
+cruelest and most deadly conflict in human history, the world's powers
+created a vision for global stability and justice. The United States
+and the Soviet Union championed a rules-based international
+order. This framework, enshrined in documents like the [Universal
+Declaration of Human
 Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
-and the [UN charter](https://www.un.org/en/about-us/un-charter). This
-was a system, unlike the colonial systems or the post-WWI peace
-treaty, which didn't unfairly benefit the victors, but which would
-treat every nation fairly and in so doing prevent the horrors their
+and the [UN
+charter](https://www.un.org/en/about-us/un-charter). Unlike the
+colonial systems or the treaty of Versailles, the post-WWII was not
+system didn't *unfairly* benefit the victors, but which would treat
+every nation fairly. In so doing prevent the horrors their
 generation had just experienced in war and foster a world where every
 nation could thrive in peace.
 
 Today, the idealism of that time is gone, and the memory of war has
-faded. This system, today referred to "[rules-based international
-order](https://en.wikipedia.org/wiki/Liberal_international_order)", is
-under attack. Leaders like Vladimir Putin of Russia decry it as a tool
-of the United States, colonialism, and opposed to a multi-polar world
-while at home in the West, nationalists question its relevance when it
-can often seem to a nation's advantage to pursue their own
-self-interest, even if that comes at a cost to others.
+faded. This international system is today referred to "[rules-based
+international
+order](https://en.wikipedia.org/wiki/Liberal_international_order)",
+and it is under attack. Leaders like Vladimir Putin of Russia decry it
+as a tool of the United States, colonialism, and say it is opposed to
+a multi-polar world. At home in the West, nationalists question its
+relevance where it can often seem to a nation's advantage to pursue
+their own self-interest, even if that comes at a cost to
+others. Brexit is an obvious example of these types of arguments.
 
-I do not believe these critisisms are correct. I believe in the values
-and ideals expressed by our grandparents. These ideals are worth
-defending and strengthening, regardless of which side of the Pacific
-we come from. It's a huge topic, but in this first blog post, I'd like
-to talk about just one of the principles of the rules-based
+I do not believe these criticisms are correct. Although I would be the
+first to say the system has not always been perfect, I believe in the
+values and ideals expressed by our grandparents. These ideals are
+worth defending and strengthening, regardless of which side of the
+Pacific we come from. It's a huge topic, but in this small blog post,
+I'd like to talk about just one of the principles of the rules-based
 international order- the principle of self determination.
 
 A typical example of recent criticism of this principle comes from
-Putin and hitting out criticism of his miliary aggression against
+Putin and hitting out at criticism of his miliary aggression against
 Ukraine. To set the scene: Putin believes that historically [Ukraine
 is a part of
 Russia](http://en.kremlin.ru/events/president/news/66181). He writes
 that he believes that Ukrainians and Belorussians are actually
 ethnically Russian, and that when the Soviet Union disintegrated the
 borders hould have reverted to what they were before 1921. At that
-time Ukraine didn't exist as an independent country, effectively
-ceding their country to Russia.
+time Ukraine didn't exist as an independent country. If we took Putins view, then that would effectively ceding Ukraine to Russia.
 
 Putin's primary problem is that, this is clearly the opposite of what
-the Ukrainian people *actually want*. The people of Ukraine first with
-a democratic vote in which they expressed the desire to work to
-becoming a part of the EU, rejecting Russia. Secondly Ukraine then
-fought against Russian occupation showing heroic resistance in the
-face of overwhelming odds. Ukraine has now resisted nearly two and
-half years against one of the world's largest militaries.
+the Ukrainian people *actually want*. The people of Ukraine have
+themselves demonstrated this. First, they demonstrated it with a
+democratic vote in which they expressed the desire to work to becoming
+a part of the EU, rejecting Russia. Secondly Ukraine has fought
+heroically against Russian occupation showing unbelievable resistance
+in the face of seemingly overwhelming odds. Ukraine has now resisted
+nearly two and half years against one of the world's largest
+militaries.
 
-Ukrainian grandmothers make this point more elloquently that I could:
+Ukrainian grandmothers made this point more eloquently that I could:
 
 > What the f--- are you doing on our land with all these guns? Take
 > these seeds and put them in your pockets, so at least sunflowers
 > will grow when you all lie down here
 
-Or the Ukranians on Snake Island,
+Or the Ukrainians on Snake Island,
 
 > **Russian warship:** "Snake Island, I, Russian warship, repeat the offer: put down your arms and surrender, or you will be bombed. Have you understood me? Do you copy?"
 
@@ -80,13 +85,13 @@ Or the Ukranians on Snake Island,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxCzKhKewnM?si=3P0NC5oBWtrTdzTO&amp;start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{:style="display:block; margin-left:auto; margin-right:auto"}
 <br/>
 
-The Ukranian people have spoken loudly and clearly. They do not want
-to incorporated into Russia, putting them at direct odds with Putin's
+The Ukrainian people have spoken clearly. They clearly do not want to
+incorporated into Russia, putting them at direct odds with Putin's
 view.
 
 Article 1, Chapter 1 of the UN Charter, agreed to by Russia, China and
 the United States along with the original 50 signatories, and today
-seen and formally accepted tp by almost every nation on earth, is to:
+seen and formally accepted by almost every nation on earth, is to:
 
 > To develop friendly relations among nations based on respect for the
 > principle of equal rights and **self-determination of peoples**, and
@@ -126,45 +131,52 @@ this](https://www.deccanherald.com/world/putin-describes-brics-as-one-of-the-key
 > their will to others. It’s exactly in the best traditions of
 > colonialism.
 
-On the contrary, the rule-based international order saw the
-dismantling of colonialism across the world. The period from 1945 to
-1960 saw some 36 Asian and African countries become independent of the
-their previous colonial rulers. This includes India, and countries
-from Indonesia to Korea. The US did not confer on themselves different
-rights than they insisted of others, instead, the US volutarily gave
-up control of the countries which they had conquered in WW2 and
-granted the Phillipines its independence in 1946.
+On the contrary, the rules-based international order saw the
+dismantling of colonialism across the world. Far from being opposed to
+a multipolar world, the rules-based system set up exactly that, in
+contrast to a system of nationalism, where by the early 1900's the
+strongest- namely the European powers- had divided the world among
+themselves. The period from 1945 to 1960 saw some 36 Asian and African
+countries become independent of the their previous colonial
+rulers. This includes India, and countries from Indonesia to
+Korea. The US did not confer on themselves different rights than they
+insisted of others, instead, the US volutarily gave up control of the
+countries which they had conquered in WW2 and granted the Phillipines
+its independence in 1946.
 
-Countries around the world haven't signed up for this because of US
-pressure, but because it is good for *us*, the people who come from
-the less powerful nations in the world. It's good to be able to
-determine our own fate, and not have that imposed by colonial or
-imperialist powers. International acceptance to this policy protects
-us, stripping the legitimacy from any agressor, whether that's the
-European powers of old, or Russia, or China or even if it was the US.
+This is not a rule arbitrarily dictated to by the countries of the
+world by the US, but one which has remained for almost 80 years and is
+amost univerally ratified and endorsed. Countries around the world
+haven't signed up for this because of US pressure, but because it is
+good for *us*, the people who come from the less powerful nations in
+the world. It's good to be able to determine our own fate, and not
+have that imposed by colonial or imperialist powers. International
+acceptance to this policy protects us, stripping the legitimacy from
+any agressor, whether that's the European powers of old, or Russia, or
+China or even if it was the US.
 
 But it is not only the people in less powerful nations who benefit
-from a rules based order, but the more powerful countries too. If
+from a rules-based order, but the more powerful countries too. If
 Ukraine crumbled tomorrow, Russian soliders would be required to
 police an unwilling population. Russian soldiers that would still be
-mocked by grandmothers in the streets. Adherence would
-need to imposed by harsh measures, none of which would be cheap for
-Russia; not in terms of money, or reputation, or lives. The wounds
-would continue. The fragile peace might last fourty years, but
-eventually it would come crashing down.
+mocked by grandmothers in the streets. Adherence would need to imposed
+by harsh measures, none of which would be cheap for Russia; not in
+terms of money, or reputation, or lives. The wounds would
+continue. The fragile peace might last fourty years, but eventually it
+would come crashing down. Self-interest imposed on others is not a
+basis for lasting peace.
 
 ![Crack in Berlin Wall](https://live.staticflickr.com/3687/14305327971_3bdc4a6a73_w_d.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-We, in all countries, face the same question as previous generations:
-why value the rules-based path of restraint over Putin's national self
+Why choose the rules-based path of restraint over national self
 interest? To the post-WW2 generation, having seen the horrors of war,
-the answer was clear. The motivation for a rules-based order is that
-that unlike the miltarily imposed rule it leads to a real, sustainable
-and just peace- and not just a temporary pause plastered over by the
-increasing use of military power and social controls. We restrain our
-self-interest in the name of peace and justice. In a speech, which
-Khrushchev liked so much he ordered printed in Pravda, JFK - in
-arguing for a nuclear-test ban treaty- put it [like
+the answer was clear. The reason for the rules-based order is that
+that, unlike militarily imposed rule, the aim is a real, sustainable
+and just peace- beneficial for all- and not just a temporary pause
+plastered over by the increasing use of military power and social
+controls. Why should we all voluntarily limit our national power? In a
+speech arguing for a nuclear test-ban treaty (which Khrushchev liked
+so much he ordered printed in Pravda), JFK put it [like
 this](https://www.jfklibrary.org/asset-viewer/archives/jfkwha-190-002):
 
 > For, in the final analysis, our most basic common link is that we
