@@ -20,16 +20,16 @@ Nearly eighty years ago, in the aftermath of the most gruesome,
 cruelest and most deadly conflict in human history, the world's powers
 created a vision for global stability and justice. The United States
 and the Soviet Union championed a rules-based international
-order. This framework, enshrined in documents like the [Universal
+order. This framework was enshrined in documents like the [Universal
 Declaration of Human
 Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 and the [UN
 charter](https://www.un.org/en/about-us/un-charter). Unlike the
-colonial systems or the treaty of Versailles, the post-WWII was not
-system didn't *unfairly* benefit the victors, but which would treat
-every nation fairly. In so doing prevent the horrors their
-generation had just experienced in war and foster a world where every
-nation could thrive in peace.
+colonial systems or the Treaty of Versailles, the post-WWII was not
+system didn't *unfairly* benefit the victors, but was one which aimed
+to treat every nation fairly. In so doing, the authors hoped, it woul
+prevent the horrors their generation had just experienced in war and
+foster a world where every nation could thrive in peace.
 
 Today, the idealism of that time is gone, and the memory of war has
 faded. This international system is today referred to "[rules-based
@@ -39,8 +39,9 @@ and it is under attack. Leaders like Vladimir Putin of Russia decry it
 as a tool of the United States, colonialism, and say it is opposed to
 a multi-polar world. At home in the West, nationalists question its
 relevance where it can often seem to a nation's advantage to pursue
-their own self-interest, even if that comes at a cost to
-others. Brexit is an obvious example of these types of arguments.
+their own self-interest, even if that comes at a cost to the
+international community or cooperation. Brexit is an obvious example
+of these types of arguments.
 
 I do not believe these criticisms are correct. Although I would be the
 first to say the system has not always been perfect, I believe in the
@@ -58,16 +59,17 @@ Russia](http://en.kremlin.ru/events/president/news/66181). He writes
 that he believes that Ukrainians and Belorussians are actually
 ethnically Russian, and that when the Soviet Union disintegrated the
 borders hould have reverted to what they were before 1921. At that
-time Ukraine didn't exist as an independent country. If we took Putins view, then that would effectively ceding Ukraine to Russia.
+time Ukraine didn't exist as an independent country. Putin's view
+would effectively cede Ukraine to Russia.
 
 Putin's primary problem is that, this is clearly the opposite of what
 the Ukrainian people *actually want*. The people of Ukraine have
 themselves demonstrated this. First, they demonstrated it with a
-democratic vote in which they expressed the desire to work to becoming
-a part of the EU, rejecting Russia. Secondly Ukraine has fought
-heroically against Russian occupation showing unbelievable resistance
-in the face of seemingly overwhelming odds. Ukraine has now resisted
-nearly two and half years against one of the world's largest
+democratic vote in which they expressed the desire to work towards
+becoming a part of the EU, rejecting Russia. Secondly Ukraine has
+fought heroically against Russian occupation showing unbelievable
+resistance in the face of seemingly overwhelming odds. Ukraine has now
+resisted nearly two and half years against one of the world's largest
 militaries.
 
 Ukrainian grandmothers made this point more eloquently that I could:
@@ -89,9 +91,10 @@ The Ukrainian people have spoken clearly. They clearly do not want to
 incorporated into Russia, putting them at direct odds with Putin's
 view.
 
-Article 1, Chapter 1 of the UN Charter, agreed to by Russia, China and
-the United States along with the original 50 signatories, and today
-seen and formally accepted by almost every nation on earth, is to:
+Article 1, Chapter 1 of the UN Charter, originally agreed to by
+Russia, China and the United States along with 50 signatories, and
+today seen and formally accepted by almost every nation on earth,
+agrees to:
 
 > To develop friendly relations among nations based on respect for the
 > principle of equal rights and **self-determination of peoples**, and
