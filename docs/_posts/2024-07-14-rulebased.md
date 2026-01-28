@@ -177,7 +177,7 @@ the answer was clear. The reason for the rules-based order is that
 that, unlike militarily imposed rule, the aim is a real, sustainable
 and just peace- beneficial for all- and not just a temporary pause
 plastered over by the increasing use of military power and social
-controls. Why should we all voluntarily limit our national power? In a
+controls. Why should we all voluntarily limit our national power? We should do it because that leads to a lasting peace, which benefits us all. In a
 speech arguing for a nuclear test-ban treaty (which Khrushchev liked
 so much he ordered printed in Pravda), JFK put it [like
 this](https://www.jfklibrary.org/asset-viewer/archives/jfkwha-190-002):
