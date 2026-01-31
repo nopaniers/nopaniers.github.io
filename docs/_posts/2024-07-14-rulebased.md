@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The pursuit of peace"
+title:  "In support of self-determination"
 date:   2024-07-14
 categories: international relations, politics
 ---
